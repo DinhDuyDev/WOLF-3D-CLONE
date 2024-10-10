@@ -1,0 +1,274 @@
+Converting GML script: ${project_dir}/scripts/scr_enemy_idle/scr_enemy_idle.gml
+Converted description /// @description idle state
+
+Converting GML script: ${project_dir}/scripts/scr_enemy_move/scr_enemy_move.gml
+Converted description /// @description moving
+
+Converting GML script: ${project_dir}/scripts/scr_enemy_attack/scr_enemy_attack.gml
+Converted description /// @description attack
+
+Converting GML script: ${project_dir}/scripts/scr_enemy_pain/scr_enemy_pain.gml
+Converted description /// @description pain state
+
+Converting GML script: ${project_dir}/scripts/scr_enemy_death/scr_enemy_death.gml
+Converted description /// @description when enemies die
+
+Font fnt_HUD has been converted to font family Courier New (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fnt_HUD/fnt_HUD.gms1.png
+Font fnt_DOS has been converted to font family Arial (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fnt_DOS/fnt_DOS.gms1.png
+Converting GML script: ${project_dir}/objects/o_menu/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_menu/Step_0.gml
+Converted description /// @description checking for configurations
+
+Converting GML script: ${project_dir}/objects/o_menu/Draw_64.gml
+Converted description /// @description Drawing the Menus
+
+Converting GML script: ${project_dir}/objects/o_menu/KeyPress_27.gml
+Converted description /// @description end the game
+
+Converting GML script: ${project_dir}/objects/o_menu/KeyPress_13.gml
+Converted description /// @description start game
+
+Converting GML script: ${project_dir}/objects/o_input/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_player/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_player/Step_0.gml
+Converted description /// @description movement
+
+Converting GML script: ${project_dir}/objects/o_player/Collision_6f24dfc7-9344-4f4a-bb70-3c0cc9980ffc.gml
+Converted description /// @description key checking
+
+Converting GML script: ${project_dir}/objects/o_player/Other_5.gml
+Converted description /// @description stop audio
+
+Converting GML script: ${project_dir}/objects/o_player/Other_4.gml
+Converted description /// @description play music
+
+Converting GML script: ${project_dir}/objects/o_player/Draw_64.gml
+Converted description /// @description pain effects
+
+Converting GML script: ${project_dir}/objects/o_player/Draw_0.gml
+Converted description /// @description projection
+
+Converting GML script: ${project_dir}/objects/o_wall/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_wall/Draw_0.gml
+Converted description /// @description drawing the wall
+
+Converting GML script: ${project_dir}/objects/o_wall_brick/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_wall_brick/Draw_0.gml
+Converted description /// @description drawing the wall
+
+Converting GML script: ${project_dir}/objects/o_wall_house/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_wall_house/Draw_0.gml
+Converted description /// @description drawing the wall
+
+Converting GML script: ${project_dir}/objects/o_wall_paint/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_wall_paint/Draw_0.gml
+Converted description /// @description drawing the wall
+
+Converting GML script: ${project_dir}/objects/s_wall_painting/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/s_wall_painting/Draw_0.gml
+Converted description /// @description drawing the wall
+
+Converting GML script: ${project_dir}/objects/o_weapon/Create_0.gml
+Converted description /// @description gun
+
+Converting GML script: ${project_dir}/objects/o_weapon/Step_0.gml
+Converted description /// @description position and firing
+
+Converting GML script: ${project_dir}/objects/o_weapon/Draw_64.gml
+Converted description /// @description drawing the guns
+
+Converting GML script: ${project_dir}/objects/o_secret_wall/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_secret_wall/Step_0.gml
+Converted description /// @description speed
+
+Converting GML script: ${project_dir}/objects/o_secret_wall/Draw_0.gml
+Converted description /// @description drawing the secret wall
+
+Converting GML script: ${project_dir}/objects/o_tree/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_tree/Draw_64.gml
+Converted description /// @description drawing health
+
+Converting GML script: ${project_dir}/objects/o_tree/Draw_0.gml
+Converted description /// @description drawing trees
+
+Converting GML script: ${project_dir}/objects/o_lights/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_lights/Draw_64.gml
+Converted description /// @description drawing health
+
+Converting GML script: ${project_dir}/objects/o_lights/Draw_0.gml
+Converted description /// @description drawing trees
+
+Converting GML script: ${project_dir}/objects/o_guard/Create_0.gml
+Converted description /// @description Init
+
+Converting GML script: ${project_dir}/objects/o_guard/Step_0.gml
+Converted description /// @description movement
+
+Converting GML script: ${project_dir}/objects/o_guard/Draw_64.gml
+Converted description /// @description hp
+
+Converting GML script: ${project_dir}/objects/o_guard/Draw_0.gml
+Converted description /// @description drawing the guard
+
+Converting GML script: ${project_dir}/objects/o_ss/Create_0.gml
+Converted description /// @description Init
+
+Converting GML script: ${project_dir}/objects/o_ss/Destroy_0.gml
+Converted description /// @description creating guns
+
+Converting GML script: ${project_dir}/objects/o_ss/Step_0.gml
+Converted description /// @description movement
+
+Converting GML script: ${project_dir}/objects/o_ss/Draw_64.gml
+Converted description /// @description hp
+
+Converting GML script: ${project_dir}/objects/o_ss/Draw_0.gml
+Converted description /// @description drawing the guard
+
+Converting GML script: ${project_dir}/objects/o_robot/Create_0.gml
+Converted description /// @description Init
+
+Converting GML script: ${project_dir}/objects/o_robot/Destroy_0.gml
+Converted description /// @description creating guns
+
+Converting GML script: ${project_dir}/objects/o_robot/Step_0.gml
+Converted description /// @description movement
+
+Converting GML script: ${project_dir}/objects/o_robot/Draw_64.gml
+Converted description /// @description hp
+
+Converting GML script: ${project_dir}/objects/o_robot/Draw_0.gml
+Converted description /// @description drawing the guard
+
+Converting GML script: ${project_dir}/objects/o_officer/Create_0.gml
+Converted description /// @description Init
+
+Converting GML script: ${project_dir}/objects/o_officer/Step_0.gml
+Converted description /// @description movement
+
+Converting GML script: ${project_dir}/objects/o_officer/Draw_64.gml
+Converted description /// @description hp
+
+Converting GML script: ${project_dir}/objects/o_officer/Draw_0.gml
+Converted description /// @description drawing the guard
+
+Converting GML script: ${project_dir}/objects/o_player_bullet/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_player_bullet/Step_0.gml
+Converted description /// @description moving
+
+Converting GML script: ${project_dir}/objects/o_guard_corpse/Create_0.gml
+Converted description /// @description height
+
+Converting GML script: ${project_dir}/objects/o_guard_corpse/Step_0.gml
+Converted description /// @description height management
+
+Converting GML script: ${project_dir}/objects/o_guard_corpse/Draw_0.gml
+Converted description /// @description drawing the guard
+
+Converting GML script: ${project_dir}/objects/o_gun_pickup/Draw_0.gml
+Converted description /// @description drawing the pickup
+
+Converting GML script: ${project_dir}/objects/o_door/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_door/Step_0.gml
+Converted description /// @description controlling doors
+
+Converting GML script: ${project_dir}/objects/o_door/Draw_0.gml
+Converted description /// @description drawing the doors
+
+Converting GML script: ${project_dir}/objects/o_door_exit/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_door_exit/Step_0.gml
+Converted description /// @description controlling doors
+
+Converting GML script: ${project_dir}/objects/o_door_exit/Draw_0.gml
+Converted description /// @description drawing the doors
+
+Converting GML script: ${project_dir}/objects/o_exit/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_exit/Step_0.gml
+Converted description /// @description controlling doors
+
+Converting GML script: ${project_dir}/objects/o_exit/Draw_0.gml
+Converted description /// @description drawing the doors
+
+Converting GML script: ${project_dir}/objects/o_enemy_bullet/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}/objects/o_enemy_bullet/Step_0.gml
+Converted description /// @description moving
+
+Converting GML script: ${project_dir}/objects/o_map_reader/Draw_0.gml
+Converted description /// @description 
+
+Converting GML script: ${project_dir}/objects/o_key/Draw_0.gml
+Converted description /// @description drawing the guard
+
+Converting GML script: ${project_dir}/objects/o_debug/Create_0.gml
+Converted description /// @description stop 3d engine
+
+Converting GML script: ${project_dir}/objects/o_debug/KeyPress_27.gml
+Converted description /// @description game end
+
+Missing audiogroup for sound: 'snd_shooting' - setting to default audio group
+Missing audiogroup for sound: 'snd_explosion' - setting to default audio group
+Missing audiogroup for sound: 'snd_GUARDSCREAM1' - setting to default audio group
+Missing audiogroup for sound: 'snd_GUARDSCREAM2' - setting to default audio group
+Missing audiogroup for sound: 'snd_GUARDSCREAM3' - setting to default audio group
+Missing audiogroup for sound: 'snd_GUARDSCREAM4' - setting to default audio group
+Missing audiogroup for sound: 'snd_GUARDSCREAM5' - setting to default audio group
+Missing audiogroup for sound: 'snd_GUARDDEATH1' - setting to default audio group
+Missing audiogroup for sound: 'snd_MUSIC1' - setting to default audio group
+Missing audiogroup for sound: 'snd_MUSIC2' - setting to default audio group
+Missing audiogroup for sound: 'snd_MUSIC3' - setting to default audio group
+Missing audiogroup for sound: 'snd_DEATH' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'd3d/d3d_draw_block.gml'
+Added compatibility script 'd3d/d3d_draw_wall.gml'
+Added compatibility script 'd3d/d3d_end.gml'
+Added compatibility script 'd3d/d3d_primitive_begin.gml'
+Added compatibility script 'd3d/d3d_primitive_begin_texture.gml'
+Added compatibility script 'd3d/d3d_primitive_end.gml'
+Added compatibility script 'd3d/d3d_set_culling.gml'
+Added compatibility script 'd3d/d3d_set_hidden.gml'
+Added compatibility script 'd3d/d3d_set_perspective.gml'
+Added compatibility script 'd3d/d3d_set_projection_ext.gml'
+Added compatibility script 'd3d/d3d_start.gml'
+Added compatibility script 'd3d/d3d_vertex_color.gml'
+Added compatibility script 'd3d/d3d_vertex_normal_texture.gml'
+Added compatibility script 'draw/draw_set_alpha_test.gml'
+Added compatibility script 'draw/draw_set_alpha_test_ref_value.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'd3d/__init_d3d.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
